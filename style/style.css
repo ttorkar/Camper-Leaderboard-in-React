@@ -1,0 +1,9 @@
+.btn {
+	margin:5px;
+}
+.spinner {
+	position: fixed; /* or absolute */
+  right: 50%;
+  left: 50%;
+	top:200px;;
+}
